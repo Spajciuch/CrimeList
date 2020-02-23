@@ -1,0 +1,17 @@
+{
+  "name": "pan-jasio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Spyte",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "firebase": "^7.9.1"
+  }
+}
