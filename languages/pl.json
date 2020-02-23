@@ -1,0 +1,24 @@
+{
+    "title": "PL",
+    "applicationTitle": "Aplikacja o zgłoszenie nowego użytkownika",
+    "applicationDescription": ["Pomyślnie zgłoszono użytkownika ", " do dodania na listę potencjalnych zagrożeń"],
+    "warnTitle": "Nowe zgłoszenie",
+    "warnMemberField": "Zgłoszona osoba",
+    "warnDeclarant": "Zgłoszony przez",
+    "warnReason": "Powód zgłoszenia",
+    "warnInvite": "Serwer na którym do tego doszło",
+    "warnGuildOwner": "Właściciel sewera na kórym doszło do zgłoszenia",
+    "bannedMember": ["Zbanowano **", "** na serwerze **", "**. Osoba była wcześniej zgłaszana za:\n>>> "],
+    "helpTitle": "Lista komend",
+    "info": "Crime List jest botem który automatycznie banuje osoby uznane wcześniej za niebezpieczne. Możesz zgłosić taki incydent komendą `application`, jeśli chcesz uzyskać pomoc użyj komendę `help`. Możesz zmienić język komendą `;language pl/en`",
+    "replies": {
+        "changedLang": "zmieniono język na **polski** :flag_pl:",
+        "noReason": "podaj powód",
+        "noMember": "oznacz osobę"
+    },
+    "help": {
+        "application": "To główna komenda, pozwala ona na zgłoszenie osoby, która zrajdowała twój serwer. Po rozpatrzeniu wniosku zostanie ona dodana na czarną listę bota i będzie banowana na innych serwerach.\n**Użycie:** ;application @osoba `powód zgłoszenia`",
+        "language": "Możesz zmienić język bota. Bot działa w dwóch językach: polskim i angielskim\n**Użycie:** ;language pl/en",
+        "info": "Podstawowe informacje o bocie"
+    }
+}

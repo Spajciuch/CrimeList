@@ -1,0 +1,24 @@
+{
+    "title": "EN",
+    "applicationTitle": "New crime application",
+    "applicationDescription": ["Successfully applied ", " to the crime list"],
+    "warnTitle": "Nowe zgłoszenie",
+    "warnMemberField": "Zgłoszona osoba",
+    "warnDeclarant": "Zgłoszony przez",
+    "warnReason": "Powód zgłoszenia",
+    "warnInvite": "Serwer na którym do tego doszło",
+    "warnGuildOwner": "Właściciel sewera na kórym doszło do zgłoszenia",
+    "bannedMember": ["Banned **", "** on **", "**. Member has been warned before with reason:\n>>> "],
+    "helpTitle": "Avaible commands",
+    "info": "Crime List is a bot who automatically bans a member who has been marked as a dangerous for discord servers. You can report such a person witch command `;application`, if you wanna get some info about the commands use `;help`. You can change language with command `;language en/pl`",
+    "replies": {
+        "changedLang": "changed language to **english** :flag_gb:",
+        "noReason": "enter reason after mentioning a member",
+        "noMember": "mention member before entering a reason"
+    },
+    "help": {
+        "application": "It's main command, you can apply about the discord crime, eg your server has been raided. Application will be considered shortly\n**Use:** ;application @member `reason`",
+        "language": "Bot has got 2 translations (english and polish)\n**Use:** ;language en/pl",
+        "info": "Shows info about this bot"
+    }
+}
